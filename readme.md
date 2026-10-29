@@ -444,7 +444,7 @@ Struktur folder proyek Siaga Bencana disusun untuk memisahkan dokumen HTML, styl
 
 7.  Website dan Repository
 Bagian ini digunakan untuk mencantumkan tautan repository kode sumber dan website yang telah dipublikasikan.
-    -	GitHub Repository: [Masukkan URL repository GitHub]
+    -	GitHub Repository: []
     -	Website GitHub Pages: [Masukkan URL website yang sudah dipublikasikan]
     7.1 Publikasi melalui GitHub Pages
         Langkah umum untuk mempublikasikan website melalui GitHub Pages adalah:
@@ -490,11 +490,5 @@ Website Siaga Bencana merupakan proyek pengembangan website edukasi yang bertuju
 Melalui proyek ini, penerapan konsep pemrograman web dapat dipelajari melalui pembuatan struktur halaman, navigasi, pengaturan layout menggunakan Flexbox dan CSS Grid, serta penyesuaian tampilan melalui media queries. Dokumentasi ini juga menjelaskan struktur folder, fungsi halaman, contoh implementasi, serta referensi informasi dan aset yang digunakan.
 Dengan adanya website Siaga Bencana, diharapkan pengguna dapat memperoleh pengetahuan dasar mengenai kebencanaan dan memahami pentingnya kesiapsiagaan. Informasi pada website tetap perlu dilengkapi dan diperiksa menggunakan sumber resmi agar materi yang disampaikan akurat dan relevan.
 
-Checklist Sebelum Pengumpulan
-•	Menambahkan URL repository GitHub yang sebenarnya.
-•	Menambahkan URL website GitHub Pages setelah berhasil dipublikasikan.
-•	Memastikan contoh kode sesuai dengan implementasi HTML dan CSS yang sebenarnya.
-•	Memastikan seluruh tautan navigasi dan gambar berfungsi.
-•	Menguji tampilan website pada desktop, tablet, dan smartphone.
-•	Memastikan seluruh file dan aset yang dibutuhkan sudah diunggah ke repository.
+
 
