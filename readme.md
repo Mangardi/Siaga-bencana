@@ -445,7 +445,7 @@ Struktur folder proyek Siaga Bencana disusun untuk memisahkan dokumen HTML, styl
 7.  Website dan Repository
 Bagian ini digunakan untuk mencantumkan tautan repository kode sumber dan website yang telah dipublikasikan.
     -	GitHub Repository: [https://github.com/Mangardi/Siaga-bencana.git]
-    -	Website GitHub Pages: [Masukkan URL website yang sudah dipublikasikan]
+    -	Website GitHub Pages: [https://mangardi.github.io/Siaga-bencana/]
     7.1 Publikasi melalui GitHub Pages
         Langkah umum untuk mempublikasikan website melalui GitHub Pages adalah:
             1.	Buat repository GitHub untuk proyek Siaga Bencana.
